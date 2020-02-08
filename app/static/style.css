@@ -46,7 +46,7 @@ button.choose-file-button {
     background-color: #ffffff;
     border: solid 1px #7052CB;
     font-size: 13px;
-    color: #7052CB;
+    color: #ffa500;
 }
 
 button.analyze-button {
@@ -56,7 +56,7 @@ button.analyze-button {
     border-radius: 2px;
     background-color: #7052CB;
     font-size: 13px;
-    color: #ffffff;
+    color: #ffff00;
 }
 
 button:focus {
